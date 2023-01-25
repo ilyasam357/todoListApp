@@ -33,7 +33,7 @@ body{
 }
 #newtask input:focus{
     outline: none;
-    border-color: #19a68c;
+    border-color: #037c35;
 }
 #newtask button{
     position: relative;
@@ -42,7 +42,9 @@ body{
     height: 45px;
     border-radius: 3px;
     font-size: 16px;
-    background: #19a68c;
+    background: #037c35;
+    font-weight: bold;
+    font-size: 20px;
     color: #fff;
     border: none;
     outline: none;
@@ -79,7 +81,9 @@ body{
 }
 .task button{
     border: none;
-    background: #19a68c;
+    background: #037c35;
+    font-weight: bold;
+    font-size: 20px;
     height: 100%;
     width: 47px;
     color: #fff;
